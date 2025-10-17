@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [alizakaee.ir](alizakaee.ir)
+- 👨‍💻 All of my projects are available at [https://alizakaee.ir](https://alizakaee.ir)
 
 - 📝 I regularly write articles on [https://alizakaee.ir/#blog](https://alizakaee.ir/#blog)
 

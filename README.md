@@ -1,3 +1,7 @@
+<div data-importer="profile-views">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=itheequalizer"  />
+</div>
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ali-zakaee) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/ITheEqualizer) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ITheEqualizer) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ITheEqualizer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:alizakaee.dev@gmail.com) 
 
@@ -12,7 +16,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://komarev.com/ghpvc/?username=ITheEqualizer&icon=9&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xDarkChain) [![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/alizakaee)
